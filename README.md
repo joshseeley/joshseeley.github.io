@@ -1,6 +1,3 @@
-# joshseeley.github.io
-Personal Portfolio
-
 Name: Student Webpage.
 
 Description: MIT coding course assignment - create a student webpage
